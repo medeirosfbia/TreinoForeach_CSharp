@@ -1,0 +1,15 @@
+C:\Users\Beatriz\Documents\bia\C#\ProjetosEstudoPessoais\TreinoForeach\TreinoForeach\bin\Debug\net6.0\TreinoForeach.exe
+C:\Users\Beatriz\Documents\bia\C#\ProjetosEstudoPessoais\TreinoForeach\TreinoForeach\bin\Debug\net6.0\TreinoForeach.deps.json
+C:\Users\Beatriz\Documents\bia\C#\ProjetosEstudoPessoais\TreinoForeach\TreinoForeach\bin\Debug\net6.0\TreinoForeach.runtimeconfig.json
+C:\Users\Beatriz\Documents\bia\C#\ProjetosEstudoPessoais\TreinoForeach\TreinoForeach\bin\Debug\net6.0\TreinoForeach.dll
+C:\Users\Beatriz\Documents\bia\C#\ProjetosEstudoPessoais\TreinoForeach\TreinoForeach\bin\Debug\net6.0\TreinoForeach.pdb
+C:\Users\Beatriz\Documents\bia\C#\ProjetosEstudoPessoais\TreinoForeach\TreinoForeach\obj\Debug\net6.0\TreinoForeach.csproj.AssemblyReference.cache
+C:\Users\Beatriz\Documents\bia\C#\ProjetosEstudoPessoais\TreinoForeach\TreinoForeach\obj\Debug\net6.0\TreinoForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beatriz\Documents\bia\C#\ProjetosEstudoPessoais\TreinoForeach\TreinoForeach\obj\Debug\net6.0\TreinoForeach.AssemblyInfoInputs.cache
+C:\Users\Beatriz\Documents\bia\C#\ProjetosEstudoPessoais\TreinoForeach\TreinoForeach\obj\Debug\net6.0\TreinoForeach.AssemblyInfo.cs
+C:\Users\Beatriz\Documents\bia\C#\ProjetosEstudoPessoais\TreinoForeach\TreinoForeach\obj\Debug\net6.0\TreinoForeach.csproj.CoreCompileInputs.cache
+C:\Users\Beatriz\Documents\bia\C#\ProjetosEstudoPessoais\TreinoForeach\TreinoForeach\obj\Debug\net6.0\TreinoForeach.dll
+C:\Users\Beatriz\Documents\bia\C#\ProjetosEstudoPessoais\TreinoForeach\TreinoForeach\obj\Debug\net6.0\refint\TreinoForeach.dll
+C:\Users\Beatriz\Documents\bia\C#\ProjetosEstudoPessoais\TreinoForeach\TreinoForeach\obj\Debug\net6.0\TreinoForeach.pdb
+C:\Users\Beatriz\Documents\bia\C#\ProjetosEstudoPessoais\TreinoForeach\TreinoForeach\obj\Debug\net6.0\TreinoForeach.genruntimeconfig.cache
+C:\Users\Beatriz\Documents\bia\C#\ProjetosEstudoPessoais\TreinoForeach\TreinoForeach\obj\Debug\net6.0\ref\TreinoForeach.dll
